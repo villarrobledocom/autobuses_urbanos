@@ -184,4 +184,4 @@ function initMap() {
 }
 
 </script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBonBvP2YdKP3hd5dkvXcf816vIGarr9ho&language=es&libraries=geometry&callback=initMap"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=your_own_google_maps_api_key&language=es&libraries=geometry&callback=initMap"></script>

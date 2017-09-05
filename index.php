@@ -44,6 +44,9 @@
     <p>Llamando a los teléfonos <strong>661 490 667</strong> o <strong>661 483 381</strong>.</p>
     <p>Descarga <a href="assets/horarios_autobuses.pdf" target="_blank">aquí</a> el folleto con los horarios (PDF de 670 KB).</p>
     <?php include 'compartir.php'; ?>
+    <div style="margin: 2rem 1rem; text-align: center; font-size: 0.8rem; font-style: italic;">
+      <p>Aplicación web creada por el <a href="http://www.villarrobledo.com">Ayuntamiento de Villarrobledo</a>.<br />Disponible en <a href="http://codigo.villarrobledo.com">código libre del Ayuntamiento de Villarrobledo</a>.</p>
+    </div>
     <?php include 'mapa.php'; ?>
   </body>
 </html>
